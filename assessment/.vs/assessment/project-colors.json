@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ac8c55dd-f434-4c3e-82db-b3ca1e50a974": {
+      "ProjectGuid": "ac8c55dd-f434-4c3e-82db-b3ca1e50a974",
+      "DisplayName": "assessment",
+      "ColorIndex": 0
+    },
+    "ff9af267-33a7-4070-8a30-0dd48444502e": {
+      "ProjectGuid": "ff9af267-33a7-4070-8a30-0dd48444502e",
+      "DisplayName": "Contracts",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

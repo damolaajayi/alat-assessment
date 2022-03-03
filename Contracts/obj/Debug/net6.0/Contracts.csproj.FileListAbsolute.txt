@@ -1,0 +1,15 @@
+C:\Users\adedamola.ajayi\source\repos\Wema\Contracts\bin\Debug\net6.0\Contracts.deps.json
+C:\Users\adedamola.ajayi\source\repos\Wema\Contracts\bin\Debug\net6.0\Contracts.dll
+C:\Users\adedamola.ajayi\source\repos\Wema\Contracts\bin\Debug\net6.0\ref\Contracts.dll
+C:\Users\adedamola.ajayi\source\repos\Wema\Contracts\bin\Debug\net6.0\Contracts.pdb
+C:\Users\adedamola.ajayi\source\repos\Wema\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adedamola.ajayi\source\repos\Wema\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\adedamola.ajayi\source\repos\Wema\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+C:\Users\adedamola.ajayi\source\repos\Wema\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\adedamola.ajayi\source\repos\Wema\Contracts\obj\Debug\net6.0\Contracts.dll
+C:\Users\adedamola.ajayi\source\repos\Wema\Contracts\obj\Debug\net6.0\ref\Contracts.dll
+C:\Users\adedamola.ajayi\source\repos\Wema\Contracts\obj\Debug\net6.0\Contracts.pdb
+C:\Users\adedamola.ajayi\source\repos\Wema\Contracts\bin\Debug\net6.0\Entities.dll
+C:\Users\adedamola.ajayi\source\repos\Wema\Contracts\bin\Debug\net6.0\Entities.pdb
+C:\Users\adedamola.ajayi\source\repos\Wema\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\adedamola.ajayi\source\repos\Wema\Contracts\obj\Debug\net6.0\Contracts.csproj.CopyComplete
