@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "RU3qfEjHSDKE8RDhG36iW/2+/OUhYwYA5hrDVcYjxlO5dctoCwTWpDX0eKPXKZr44eivK8v0Zlc7vf6FmBmLoQ==",
+  "dgSpecHash": "t0dj6bgQDpcRmwr/+m5GzWfqGUvvxiDCZ/dFlsgCCRSX5+qEBoD0GZg8W7PCeX31SS2QpRztIJ301QRXwmqctg==",
   "success": true,
   "projectFilePath": "C:\\Users\\adedamola.ajayi\\source\\repos\\Wema\\assessment\\assessment.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
     "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
     "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",

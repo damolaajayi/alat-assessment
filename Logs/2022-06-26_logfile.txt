@@ -1,0 +1,4 @@
+2022-06-26 20:12:10.9290 INFO Getting all users
+2022-06-26 20:12:10.9445 INFO Getting all user
+2022-06-26 20:12:11.5191 ERROR Error getting all user
+2022-06-26 23:41:05.6947 INFO Getting all users

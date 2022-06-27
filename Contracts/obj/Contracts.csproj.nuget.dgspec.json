@@ -13,6 +13,9 @@
         "packagesPath": "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\adedamola.ajayi\\source\\repos\\Wema\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\adedamola.ajayi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -71,6 +74,9 @@
         "packagesPath": "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\adedamola.ajayi\\source\\repos\\Wema\\Entities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\adedamola.ajayi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

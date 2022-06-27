@@ -10,7 +10,32 @@
       "ProjectGuid": "ff9af267-33a7-4070-8a30-0dd48444502e",
       "DisplayName": "Contracts",
       "ColorIndex": 1
+    },
+    "b2ff315a-b058-4f47-a1b3-0a7ef2906e5f": {
+      "ProjectGuid": "b2ff315a-b058-4f47-a1b3-0a7ef2906e5f",
+      "DisplayName": "Contracts",
+      "ColorIndex": 2
+    },
+    "5a6ad4e1-5572-46fc-a5cf-4cff7c710d24": {
+      "ProjectGuid": "5a6ad4e1-5572-46fc-a5cf-4cff7c710d24",
+      "DisplayName": "LoggerService",
+      "ColorIndex": 3
+    },
+    "ea5a594c-012f-46dc-b442-a3f6d30c9626": {
+      "ProjectGuid": "ea5a594c-012f-46dc-b442-a3f6d30c9626",
+      "DisplayName": "Entities",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "28d05102-015c-406a-aad9-ea763f27d6fe": {
+      "ProjectGuid": "28d05102-015c-406a-aad9-ea763f27d6fe",
+      "DisplayName": "Repository",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 6
 }

@@ -20,8 +20,8 @@ builder.Services.AddDbContext<RepositoryContext>(opts =>
         options.MigrationsAssembly("assessment");
     });
 });
-builder.Services.AddScoped<OnboardingInterface, OnboardingRepo>();
-builder.Services.AddScoped<OTPInterface, OTPRepository>();
+builder.Services.AddScoped<OnboardingInterface, OnboardingService>();
+builder.Services.AddScoped<OTPInterface, OTPService>();
 builder.Services.AddScoped<ILoggerManager, LoggerManager>();
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

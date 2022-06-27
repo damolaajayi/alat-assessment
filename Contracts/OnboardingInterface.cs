@@ -9,8 +9,8 @@ namespace Contracts
 {
     public interface OnboardingInterface
     {
-        Task<ResponseModel> CreateNewUser(string PhoneNumber, Onboard onboard);
+        Task<ResponseModel> CreateNewUser(Onboard onboard);
         Task<List<Onboard>> GetAllUsers();
-        Task<List<BankEnvelope>> GetAllBanks();
+        Task<BankEnvelope> GetAllBanks();
     }
 }

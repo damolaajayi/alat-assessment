@@ -10,9 +10,9 @@ using System.Web;
 
 namespace Repository
 {
-    public class OTPRepository : OTPInterface
+    public class OTPService : OTPInterface
     {
-        public async Task<ResponseModel> GenerateToken(string PhoneNumber)
+        public async Task<ResponseModel> GenerateAndValidateToken(string PhoneNumber)
         {
             ResponseModel resp = new ResponseModel();
             if (!string.IsNullOrEmpty(PhoneNumber) && PhoneNumber.StartsWith("234"))

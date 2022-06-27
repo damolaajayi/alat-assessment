@@ -10,7 +10,7 @@ namespace Entities.Models
 {
     public class Onboard
     {
-        [Column("CustomerId")]
+        [Key, Column("CustomerId")]
         public Guid Id { get; set; }
         [Required(ErrorMessage = "PhoneNumber is a required field.")]
         public string? PhoneNumber { get; set; }
@@ -20,6 +20,7 @@ namespace Entities.Models
         public string? Password { get; set; }
         public State? State { get; set; }
         
+
     }
 
     public class State
@@ -27,8 +28,8 @@ namespace Entities.Models
         [Required(ErrorMessage = "State of Residence is a required field.")]
         public string? StateofResidence { get; set; }
         [Required(ErrorMessage = "Local Government is a required field.")]
-        public string? LGA { get; set; }
-
+        public List<string> LGA { get; set; }
+  
     }
 
 }

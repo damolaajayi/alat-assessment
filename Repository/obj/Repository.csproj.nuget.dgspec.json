@@ -13,6 +13,9 @@
         "packagesPath": "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\adedamola.ajayi\\source\\repos\\Wema\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\adedamola.ajayi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -71,6 +74,9 @@
         "packagesPath": "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\adedamola.ajayi\\source\\repos\\Wema\\Entities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\adedamola.ajayi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -147,6 +153,9 @@
         "packagesPath": "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\adedamola.ajayi\\source\\repos\\Wema\\LoggerService\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\adedamola.ajayi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -211,6 +220,9 @@
         "packagesPath": "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\adedamola.ajayi\\source\\repos\\Wema\\Repository\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\adedamola.ajayi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -245,6 +257,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"

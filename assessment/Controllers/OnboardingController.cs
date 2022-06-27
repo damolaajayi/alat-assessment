@@ -17,13 +17,27 @@ namespace assessment.Controllers
             _logger = logger;
         }
 
+        [HttpPost]
+        [Route("adduser")]
+        public async Task<IActionResult> AddUser(Onboard onboard)
+        {
+            _logger.LogInformation("Creating user");
+            if (!ModelState.IsValid)
+            {
+
+                return BadRequest(ModelState);
+            }
+            var resp = await _onboarding.CreateNewUser(onboard);
+            return Ok(resp);
+        }
+
         [HttpGet]
         [Route("Getallusers")]
         public async Task<IActionResult> GetUsers()
         {
             _logger.LogInformation("Getting all users");
             var resp = await _onboarding.GetAllUsers();
-            if(resp == null)
+            if (resp == null)
             {
                 return NotFound();
             }
@@ -31,17 +45,7 @@ namespace assessment.Controllers
         }
 
 
-        [HttpPost]
-        [Route("adduser")]
-        public async Task<IActionResult> AddUser(string PhoneNumber, Onboard onboard)
-        {
-            _logger.LogInformation("Creating user");
-            var resp = await _onboarding.CreateNewUser(PhoneNumber, onboard);
-            return Ok(resp);
-        }
-
-
-        [HttpPost]
+        [HttpGet]
         [Route("getallbanks")]
         public async Task<IActionResult> GetAllBanks()
         {

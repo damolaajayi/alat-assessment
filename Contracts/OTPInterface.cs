@@ -9,7 +9,7 @@ namespace Contracts
 {
     public interface OTPInterface
     {
-        Task<ResponseModel> GenerateToken(string PhoneNumber);
+        Task<ResponseModel> GenerateAndValidateToken(string PhoneNumber);
         Task<ResponseModel> ValidateToken(ValidateOTPRequest requestModel);
 
     }

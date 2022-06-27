@@ -1,0 +1,7 @@
+2022-06-27 10:01:34.8742 INFO Getting all users
+2022-06-27 10:23:34.9682 INFO Creating user
+2022-06-27 10:23:35.0049 INFO Getting all users
+2022-06-27 10:30:11.7538 INFO Creating user
+2022-06-27 10:30:11.7684 INFO Getting all users
+2022-06-27 10:33:16.0504 INFO Creating user
+2022-06-27 10:33:16.0663 INFO Getting all users
